@@ -1,0 +1,5 @@
+{
+  "name": "វិទ្យាល័យសុខអានព្រៃមេលង - School Portal",
+  "description": "A React-based web application for វិទ្យាល័យសុខអានព្រៃមេលង, showcasing school information, achievements, and providing administrative functionalities. The interface is designed with Tailwind CSS for a modern and aesthetically pleasing user experience, supporting Khmer language.",
+  "requestFramePermissions": []
+}
